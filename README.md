@@ -4,7 +4,7 @@ This repository contains Python solutions to various GeeksforGeeks problems.
 
 # Table of Contents
 
-| #  | Problem Title                                        | LeetCode Link                                                                 | Solution File                                                                 |
+| #  | Problem Title                                        | GFG Link                                                                 | Solution File                                                                 |
 |----|------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | 1  | Alternates in an Array                               | [Link](https://www.geeksforgeeks.org/alternates-in-an-array/)                 | [Alternates_in_an_Array.py](https://github.com/amargupta28/geeksForgeeks/blob/main/Alternates_in_an_Array.py) |
 | 2  | Array Leaders                                        | [Link](https://www.geeksforgeeks.org/array-leaders/)                          | [Array_Leaders.py](https://github.com/amargupta28/geeksForgeeks/blob/main/Array_Leaders.py) |
